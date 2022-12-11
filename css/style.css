@@ -64,3 +64,28 @@
     align-items: center;
     justify-content: space-around;
 }
+
+section {
+    width: 100%;
+    height: 100%;
+
+}
+
+section a div {
+    width: 50%;
+    height: 50%;
+
+}
+
+section a{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#zezanje {
+    background-image: url('../img/logo.png');
+}
